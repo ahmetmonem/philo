@@ -1,0 +1,10 @@
+{
+    "files.associations": {
+        "__mutex_base": "c",
+        "__threading_support": "c",
+        "__locale": "c",
+        "__config": "c",
+        "bitset": "c"
+    },
+    "C_Cpp.errorSquiggles": "enabledIfIncludesResolve"
+}
