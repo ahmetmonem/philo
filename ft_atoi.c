@@ -6,11 +6,11 @@
 /*   By: amonem <amonem@student.42.fr>              +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2023/07/03 15:55:42 by amonem            #+#    #+#             */
-/*   Updated: 2023/10/10 11:42:39 by amonem           ###   ########.fr       */
+/*   Updated: 2023/10/16 19:43:09 by amonem           ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
-# include "philo.h"
+#include "philo.h"
 
 int	ft_atoi(const char *str)
 {
